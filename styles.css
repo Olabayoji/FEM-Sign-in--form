@@ -153,15 +153,6 @@ span {
   border: 2px solid #ff7a7a !important;
 }
 
-input-invalid {
-  display: block;
-  width: 100%;
-  padding: 1.5em 3em;
-  margin-bottom: 1em;
-  border: 1px solid red;
-  color: red;
-  border-radius: 5px;
-}
 
 footer {
   text-align: center;
